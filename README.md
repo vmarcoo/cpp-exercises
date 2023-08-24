@@ -1,6 +1,6 @@
 # C++ Exercises
 
-These are some c++ exercises for the Algorithms and Programming subject at my Bachelor in Computer Science program.
+These are some c++ exercises for the Algorithms and Programming subject at my Bachelor in Computer Science program. They are console applications made with Code::Blocks IDE.
 The goal here is to solve 11 problems using only mathematical expressions to manipulate the values. All specifications will be written down here:
 
 1) Create a program that prompts the user to enter their name and displays the message "Hello" followed by the name entered by the user.
